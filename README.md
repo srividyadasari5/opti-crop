@@ -333,13 +333,13 @@ python app.py
 <div align="center">
 
 ### 🖥️ Project UI
-![Project UI](https://via.placeholder.com/800x400/e8f5e9/2e7d32?text=Project+UI+Screenshot)
+![Project UI](5.%20Project%20Development%20Phase/assets/user_interface.png)
 
 ### 🌾 Prediction Result
-![Prediction Result](https://via.placeholder.com/800x400/fff3e0/e65100?text=Prediction+Result+Screenshot)
+![Prediction Result](5.%20Project%20Development%20Phase/assets/user_interface.png)
 
 ### 📊 Training Output
-![Training Output](https://via.placeholder.com/800x400/e3f2fd/0d47a1?text=Training+Output+Screenshot)
+![Training Output](5.%20Project%20Development%20Phase/assets/user_interface.png)
 
 </div>
 
@@ -525,5 +525,41 @@ without restriction, subject to the conditions of the MIT License.
 🌱 **Made with ❤️ for Sustainable Agriculture** 🌍
 
 <sub>Built by passionate developers striving for a greener, smarter tomorrow.</sub>
+
+</div>
+---
+
+## 👨‍💻 Team Members
+
+<div align="center">
+
+<a href="https://github.com/srividyadasari5">
+  <img src="https://github.com/srividyadasari5.png" width="100px;" alt="USERNAME1"/><br>
+  <sub><b>Dasari Srividya</b></sub>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/revathidevarakonda532-collab">
+  <img src="https://github.com/revathidevarakonda532-collab.png" width="100px;" alt="USERNAME2"/><br>
+  <sub><b>Devarakonda Revathi</b></sub>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/USERNAME3">
+  <img src="https://github.com/USERNAME3.png" width="100px;" alt="USERNAME3"/><br>
+  <sub><b>Idamakanti Anusha</b></sub>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/chEkshith">
+  <img src="https://github.com/chEkshith.png" width="100px;" alt="Chokkani Ekshith"/><br>
+  <sub><b>Chokkani Ekshith</b></sub>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/khaadar4783">
+  <img src="https://github.com/khaadar4783.png" width="100px;" alt="USERNAME5"/><br>
+  <sub><b>Shaik Khaadar Vali</b></sub>
+</a>
 
 </div>
