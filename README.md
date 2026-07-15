@@ -168,30 +168,66 @@ xychart-beta
 
 ## 🗂️ Project Structure
 
-```bash
-OptiCrop/
+```text
+opti-crop/
+├── 1. Brainstorming & Ideation/                    # Initial ideation and problem discovery
+│   ├── Brainstorming & Idea Prioritization.pdf     # Brainstorming session and shortlisted ideas
+│   ├── Define Problem Statements.pdf               # Clearly defined project problem statement
+│   └── Empathy Map.pdf                             # User needs and pain point analysis
 │
-├── 📁 data/                    # Dataset files
-│   └── Crop_recommendation.csv
+├── 2. Requirement Analysis/                        # Requirement gathering and analysis
+│   ├── Customer Journey Map.pdf                    # End-user interaction workflow
+│   ├── Data Flow Diagram.pdf                       # Data movement throughout the system
+│   ├── Solution Architecture.pdf                   # High-level system architecture
+│   └── Technology Stack.pdf                        # Technologies used in the project
 │
-├── 📁 models/                  # Serialized ML models
-│   └── random_forest_model.pkl
+├── 3. Project Design Phase/                        # Solution design documents
+│   ├── Problem-Solution Fit.pdf                    # Mapping problems to proposed solutions
+│   ├── Proposed Solution.pdf                       # Final solution design
+│   └── Solution Architecture.pdf                   # Detailed architecture diagram
 │
-├── 📁 templates/               # HTML templates (Jinja2)
-│   ├── index.html
-│   └── result.html
+├── 4. Project Planning Phase/                      # Project planning and execution roadmap
+│   └── Project Planning.pdf                        # Timeline, milestones, and planning
 │
-├── 📁 static/                  # CSS, JS, images
-│   ├── css/
-│   ├── js/
-│   └── images/
+├── 5. Project Development Phase/                   # Source code and implementation
+│   ├── .gitignore                                  # Git ignored files configuration
+│   ├── Code-Layout, Readability and Reusability.pdf# Coding standards followed
+│   ├── Coding & Solution.pdf                       # Implementation explanation
+│   ├── No. of Functional Features Included in the Solution.pdf
+│   ├── README.md                                   # Development phase documentation
+│   ├── app.py                                      # Flask backend application
+│   ├── train.py                                    # Model training and serialization script
+│   ├── notebook.ipynb                              # EDA, preprocessing, and experiments
+│   │
+│   ├── assets/
+│   │   └── user_interface.png                      # Application UI screenshot
+│   │
+│   ├── data/
+│   │   └── Crop_recommendation.csv                 # Crop recommendation dataset
+│   │
+│   ├── templates/
+│   │   └── index.html                              # Main HTML interface
+│   │
+│   └── static/
+│       ├── style.css                               # Application styling
+│       └── script.js                               # Frontend JavaScript logic
 │
-├── 🐍 train.py                 # Model training script
-├── 🐍 app.py                   # Flask application entry point
-├── 📓 notebook.ipynb           # EDA & experimentation notebook
-└── 📘 README.md                # Project documentation
+├── 6. Project Testing/                             # Testing reports
+│   └── Performance Testing.pdf                     # Performance evaluation results
+│
+├── 7. Project Documentation/                       # Final project documentation
+│   ├── OptiCrop Project Documentation.pdf          # Complete project report
+│   └── Project Executable Files.pdf                # Execution and deployment guide
+│
+├── 8. Project Demonstration/                       # Demonstration artifacts
+│   ├── Communication.pdf                           # Team communication strategy
+│   ├── Demonstration of Proposed Features.pdf      # Feature demonstration
+│   ├── Project Demo Planning.pdf                   # Demo presentation plan
+│   ├── Scalability & Future Plan.pdf               # Future enhancements and scalability
+│   └── Team Involvement in Demonstration.pdf       # Roles during demonstration
+│
+└── README.md                                       # Main repository documentation
 ```
-
 ---
 
 ## ✨ Features
