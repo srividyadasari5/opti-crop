@@ -534,35 +534,35 @@ without restriction, subject to the conditions of the MIT License.
 <div align="center">
 
 <a href="https://github.com/srividyadasari5" style="text-decoration:none;">
-    <img src="https://github.com/srividyadasari5.png" width="120" alt="Dasari Srividya"><br>
+    <img src="https://github.com/srividyadasari5.png" width="120" style="border-radius:50%;" alt="Dasari Srividya"><br>
     <b>Dasari Srividya</b>
 </a>
 
-<br><br>
+<br><br><br>
 
 <a href="https://github.com/revathidevarakonda532-collab" style="text-decoration:none;">
-    <img src="https://github.com/revathidevarakonda532-collab.png" width="120" alt="Devarakonda Revathi"><br>
+    <img src="https://github.com/revathidevarakonda532-collab.png" width="120" style="border-radius:50%;" alt="Devarakonda Revathi"><br>
     <b>Devarakonda Revathi</b>
 </a>
 
-<br><br>
+<br><br><br>
 
-<a href="https://github.com/YOUR_USERNAME" style="text-decoration:none;">
-    <img src="https://github.com/YOUR_USERNAME.png" width="120" alt="Idamakanti Anusha"><br>
+<a href="https://github.com/YOUR_ANUSHA_GITHUB_USERNAME" style="text-decoration:none;">
+    <img src="https://github.com/YOUR_ANUSHA_GITHUB_USERNAME.png" width="120" style="border-radius:50%;" alt="Idamakanti Anusha"><br>
     <b>Idamakanti Anusha</b>
 </a>
 
-<br><br>
+<br><br><br>
 
 <a href="https://github.com/chEkshith" style="text-decoration:none;">
-    <img src="https://github.com/chEkshith.png" width="120" alt="Chokkani Ekshith"><br>
+    <img src="https://github.com/chEkshith.png" width="120" style="border-radius:50%;" alt="Chokkani Ekshith"><br>
     <b>Chokkani Ekshith</b>
 </a>
 
-<br><br>
+<br><br><br>
 
 <a href="https://github.com/khaadar4783" style="text-decoration:none;">
-    <img src="https://github.com/khaadar4783.png" width="120" alt="Shaik Khaadar Vali"><br>
+    <img src="https://github.com/khaadar4783.png" width="120" style="border-radius:50%;" alt="Shaik Khaadar Vali"><br>
     <b>Shaik Khaadar Vali</b>
 </a>
 
