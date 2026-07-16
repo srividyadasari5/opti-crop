@@ -533,33 +533,45 @@ without restriction, subject to the conditions of the MIT License.
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="20%">
 <a href="https://github.com/srividyadasari5">
-  <img src="https://github.com/srividyadasari5.png" width="100px;" alt="USERNAME1"/><br>
-  <sub><b>Dasari Srividya</b></sub>
+<img src="https://github.com/srividyadasari5.png" width="120px" style="border-radius:50%;" alt="Dasari Srividya"/><br><br>
+<b>Dasari Srividya</b>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
+<td align="center" width="20%">
 <a href="https://github.com/revathidevarakonda532-collab">
-  <img src="https://github.com/revathidevarakonda532-collab.png" width="100px;" alt="USERNAME2"/><br>
-  <sub><b>Devarakonda Revathi</b></sub>
+<img src="https://github.com/revathidevarakonda532-collab.png" width="120px" style="border-radius:50%;" alt="Devarakonda Revathi"/><br><br>
+<b>Devarakonda Revathi</b>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<a href="https://github.com/USERNAME3">
-  <img src="https://github.com/USERNAME3.png" width="100px;" alt="USERNAME3"/><br>
-  <sub><b>Idamakanti Anusha</b></sub>
+<td align="center" width="20%">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github.com/YOUR_USERNAME.png" width="120px" style="border-radius:50%;" alt="Idamakanti Anusha"/><br><br>
+<b>Idamakanti Anusha</b>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
+<td align="center" width="20%">
 <a href="https://github.com/chEkshith">
-  <img src="https://github.com/chEkshith.png" width="100px;" alt="Chokkani Ekshith"/><br>
-  <sub><b>Chokkani Ekshith</b></sub>
+<img src="https://github.com/chEkshith.png" width="120px" style="border-radius:50%;" alt="Chokkani Ekshith"/><br><br>
+<b>Chokkani Ekshith</b>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
+<td align="center" width="20%">
 <a href="https://github.com/khaadar4783">
-  <img src="https://github.com/khaadar4783.png" width="100px;" alt="USERNAME5"/><br>
-  <sub><b>Shaik Khaadar Vali</b></sub>
+<img src="https://github.com/khaadar4783.png" width="120px" style="border-radius:50%;" alt="Shaik Khaadar Vali"/><br><br>
+<b>Shaik Khaadar Vali</b>
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
